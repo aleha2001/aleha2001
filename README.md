@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am backend python developer
+I am computer science student. Currently expanding my knowlegde in python backend development
 
 ---
 
