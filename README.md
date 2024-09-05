@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am computer science graduent student. Currently expanding my knowlegde in python backend development
+I am Applied Mathematics and Informatics graduent student. Currently expanding my knowlegde in python backend development
 
 ---
 
